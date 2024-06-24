@@ -1,5 +1,6 @@
 # computervision_CNN
 Assignment of computer vision lecture
+LeNet, AlexNet 합성곱 신경망 구현과 성능 향상
 
 ---
 1. 이 프로젝트는 google Colab 환경에서 진행되었습니다.
